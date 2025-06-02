@@ -29,4 +29,4 @@ $tanggal = date("d-m-Y");
     </div>
 </div>
 
-<?php include 'api/footer.php'; ?>
+<?php include 'footer.php'; ?>
