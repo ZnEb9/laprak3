@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+<?php include 'api/header.php'; ?>
 
 <div class="container mt-5">
     <div class="alert alert-danger col-md-6 mx-auto">
@@ -9,4 +9,4 @@
     </div>
 </div>
 
-<?php include 'footer.php'; ?>
+<?php include 'api/footer.php'; ?>
