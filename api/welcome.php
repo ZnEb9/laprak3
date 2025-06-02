@@ -12,7 +12,7 @@ $hari = date("l");
 $tanggal = date("d-m-Y");
 ?>
 
-<?php include 'header.php'; ?>
+<?php include 'api/header.php'; ?>
 
 <div class="container mt-5">
     <div class="card col-md-6 mx-auto">
@@ -29,4 +29,4 @@ $tanggal = date("d-m-Y");
     </div>
 </div>
 
-<?php include 'footer.php'; ?>
+<?php include 'api/footer.php'; ?>
